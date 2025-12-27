@@ -2,6 +2,7 @@
 
 **Disclaimer:** This project is intended for educational and AI safety research purposes only. The tools and techniques described herein should not be used for malicious purposes, to circumvent copyright, or to misrepresent the origin of digital content. This proof if concept is presented "as-is" and without warranty.
 
+[**Join the Discord Server**]([https://blog.google/technology/ai/nano-banana-pro/](https://discord.gg/rzJmPjQY))
 ---
 
 ## 1. Overview
